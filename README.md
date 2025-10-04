@@ -1,6 +1,5 @@
 - 👋 Hi, I'm Giovanni!
 - 👀 I'm interested in data science, artificial intelligence, web development, and mobile and desktop applications.
-- 🌱 I am currently learning the Java programming language.
 - 💼 I'm a programming and computer science teacher at the high school level.
 - 📍 Location: Guatemala.
 - ⚡ Fun fact:  I love playing musical instruments in my free time!
