@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=30&duration=1500&pause=1000&color=00FF00&vCenter=true&multiline=true&repeat=false&width=880&height=250&lines=gi0yis%40github%3Aperfil%24+%C2%A1Bienvenido+a+mi+perfil!;%3E+Cargando+informaci%C3%B3n...;%3E+Desarrollador++%7C++Profesor+%7C+Entusiasta+de+la+IA+;%3E+Hola%2C+soy+Giovanni.+%C2%A1Explora+mis+proyectos!;%3E+Desliza+para+saber+m%C3%A1s+de+mi+%E2%AC%87%EF%B8%8F;gi0yis%40github%3Aperfil%24+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=30&duration=1000&pause=1000&color=00FF00&vCenter=true&multiline=true&repeat=false&width=880&height=250&lines=gi0yis%40github%3Aperfil%24+%C2%A1Bienvenido+a+mi+perfil!;%3E+Cargando+informaci%C3%B3n...;%3E+Desarrollador++%7C++Profesor+%7C+Entusiasta+de+la+IA+;%3E+Hola%2C+soy+Giovanni.+%C2%A1Explora+mis+proyectos!;%3E+Desliza+para+saber+m%C3%A1s+de+mi+%E2%AC%87%EF%B8%8F;gi0yis%40github%3Aperfil%24+)](https://git.io/typing-svg)
 
 Actualmente trabajo como desarrollador en un partner de Odoo, donde me dedico a construir y personalizar módulos para resolver problemas de negocio.
 
