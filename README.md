@@ -1,5 +1,1 @@
-- 👋 Hi, I'm Giovanni!
-- 👀 I'm interested in data science, artificial intelligence, web development, and mobile and desktop applications.
-- 💼 I'm a programming and computer science teacher at the high school level.
-- 📍 Location: Guatemala.
-- ⚡ Fun fact:  I love playing musical instruments in my free time!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=30&duration=2000&pause=1000&color=00FF00&vCenter=true&multiline=true&width=845&height=175&lines=gi0yis%40github%3Aperfil%24+Bienvenido+a+mi+perfil...;%3E+Cargando+informaci%C3%B3n...;%3E+Hola%2C+soy+Giovanni.+%C2%A1Explora+mis+proyectos!;gi0yis%40github%3Aperfil%24+)](https://git.io/typing-svg)
