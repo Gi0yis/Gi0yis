@@ -1,9 +1,3 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&weight=500&size=30&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&width=200&height=65&lines=Gi0yis...%F0%9F%98%9C)](https://git.io/typing-svg)
-
-</div>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=30&duration=1000&pause=1000&color=00FF00&vCenter=true&multiline=true&repeat=false&width=825&height=250&lines=gi0yis%40github%3Aprofile%24+Welcome+to+my+profile!;%3E+Loading+information...;%3E+Developer+%7C+Educator+%7C+AI+Enthusiast;%3E+Hi%2C+I'm+Giovanni.+Explore+my+projects!;%3E+Scroll+down+to+learn+more+about+me+%E2%AC%87%EF%B8%8F;gi0yis%40github%3Aprofile%24)](https://git.io/typing-svg)
 
 
