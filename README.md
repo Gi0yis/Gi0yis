@@ -1,6 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=30&duration=1000&pause=1000&color=00FF00&vCenter=true&multiline=true&repeat=false&width=825&height=250&lines=gi0yis%40github%3Aprofile%24+Welcome+to+my+profile!;%3E+Loading+information...;%3E+Developer+%7C+Educator+%7C+AI+Enthusiast;%3E+Hi%2C+I'm+Giovanni.+Explore+my+projects!;%3E+Scroll+down+to+learn+more+about+me+%E2%AC%87%EF%B8%8F;gi0yis%40github%3Aprofile%24)](https://git.io/typing-svg)
-
-
 Currently, I work as a developer at an Odoo partner, where I focus on building and customizing modules to solve business problems.
 
 Although I've stepped away from formal teaching, my passion for teaching remains intact. I enjoy combining my technical experience with my love for sharing knowledge.
